@@ -6,7 +6,7 @@ import Main from './page/Main'
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route exact path='/' element={<Main/>}/>
         <Route exact path='/AboutMe' element={<AboutMe/>}/>  
