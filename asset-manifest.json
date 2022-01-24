@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1379b430.css",
+    "main.js": "/static/js/main.145e4028.js",
+    "static/js/787.86e70ff7.chunk.js": "/static/js/787.86e70ff7.chunk.js",
+    "static/media/Occhi.mp4": "/static/media/Occhi.6fd3c52ac1436c143b9e.mp4",
+    "static/media/dragon.png": "/static/media/dragon.6e637bdf2ba08e810a52.png",
+    "static/media/Mjolni1.png": "/static/media/Mjolni1.973b54f29e90c2ff37f0.png",
+    "static/media/Mjolnir.png": "/static/media/Mjolnir.1c8c4c21ade746399174.png",
+    "static/media/rgba.png": "/static/media/rgba.d7d317aa195e0c630e10.png",
+    "static/media/Billy.png": "/static/media/Billy.66bfbfd9b3407d3e5168.png",
+    "static/media/fairify.png": "/static/media/fairify.dbaece7b8b45dc2a8a4c.png",
+    "static/media/occhi.png": "/static/media/occhi.be6ade95cc02a915fc53.png",
+    "index.html": "/index.html",
+    "main.1379b430.css.map": "/static/css/main.1379b430.css.map",
+    "main.145e4028.js.map": "/static/js/main.145e4028.js.map",
+    "787.86e70ff7.chunk.js.map": "/static/js/787.86e70ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1379b430.css",
+    "static/js/main.145e4028.js"
+  ]
+}
