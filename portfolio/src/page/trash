@@ -1,0 +1,101 @@
+                {/* <div className="projects">
+
+                    <div className="card-box">
+                    <Card className="card">
+                        <div className="img-box">
+                            <Card.Img variant="top" src={projekts['occhi.png']} style={{width: "20%"}}/>
+                        </div>
+                        
+                        <Card.Body>
+                            <Card.Title>{pages.title}</Card.Title>
+                            <Card.Text>
+                            App für virtuellen Brilleanprobe
+                            <div><Badge>Java</Badge> <Badge>Android Studio</Badge> <Badge>ARCore</Badge> <Badge>Blender</Badge></div>
+                            
+                            </Card.Text>
+                            <Button variant="primary" onClick={() => {handeltoLink("occhi")}} >Go somewhere</Button>
+                        </Card.Body>
+                    </Card>
+                    </div>
+                    <div className="card-box">
+                        <Card className="card">
+                            <div className="img-box">
+                            <Card.Img variant="top" src={projekts['fairify.png']} style={{width: "60%"}}/>
+                            </div>
+                            
+                            <Card.Body>
+                                <Card.Title>Fairify</Card.Title>
+                                <Card.Text>
+                                    virtuelle/digitale Messeausstellung im Web
+                                <div><Badge>React</Badge> <Badge>Three js</Badge> <Badge>html</Badge> <Badge>css</Badge></div>
+                                </Card.Text>
+                                <Button variant="primary" onClick={() => {handeltoLink("fairify")}} >Go somewhere</Button>
+                            </Card.Body>
+                        </Card>
+                    </div>
+                    
+                    <div className="card-box">
+                        <Card className="card">
+                            <div className="img-box">
+                                <Card.Img variant="top" src={projekts['rgba.png']} style={{width: "100%"}} />
+                            </div>
+                            <Card.Body>
+                                <Card.Title>RGBA</Card.Title>
+                                <Card.Text>
+                                    kleines Farbauswahlspiel mit Low-poly Modellen
+                                    <div><Badge>Unity 3d</Badge> <Badge>C#</Badge> <Badge>Blender</Badge> </div>
+                                </Card.Text>
+
+                                <Button variant="primary" onClick={() => {handeltoLink("rgba")}}>Go somewhere</Button>
+                            </Card.Body>
+                        </Card>
+                    </div>
+                    <div className="card-box">
+                        <Card className="card">
+                        <div className="img-box">
+                                <Card.Img variant="top" src={projekts['Billy.png']} style={{width: "100%"}} />
+                            </div>
+                            <Card.Body>
+                                <Card.Title>Billy</Card.Title>
+                                <Card.Text>
+                                    auf Billiard basiertes Puzzle Game
+                                    <div><Badge>Unity 3d</Badge> <Badge>C#</Badge> <Badge>Blender</Badge> </div>
+                                </Card.Text>
+                                
+                                <Button variant="primary" onClick={() => {handeltoLink("billy")}}>Go somewhere</Button>
+                            </Card.Body>
+                        </Card>
+                    </div>
+                    <div className="card-box">
+                        <Card className="card">
+                            <div className="img-box">
+                                <Card.Img variant="top" src={projekts['dragon.png']} style={{width: "100%"}} />
+                            </div>
+                            <Card.Body>
+                                <Card.Title>Dragon</Card.Title>
+                                <Card.Text>
+                                aggregierte Objekten als 3D Modelling
+                                <div><Badge>Blender</Badge> </div>
+                                </Card.Text>
+                                <Button variant="primary" onClick={() => {handeltoLink("dragon")}}>Go somewhere</Button>
+                            </Card.Body>
+                        </Card>
+                    </div>
+                    <div className="card-box">
+                        <Card className="card">
+                            <div className="img-box">
+                                <Card.Img variant="top" src={projekts['Mjolni1.png']} style={{width: "100%"}} />
+                            </div>
+                            
+                            <Card.Body>
+                                <Card.Title>Mjolnir</Card.Title>
+                                <Card.Text>
+                                    Thor's Hammer
+                                    <div><Badge>Blender</Badge> </div>
+                                </Card.Text>
+                                <Button variant="primary" onClick={() => {handeltoLink("mjolnir")}}>Go somewhere</Button>
+                            </Card.Body>
+                        </Card>
+                    </div>
+
+                </div> */}

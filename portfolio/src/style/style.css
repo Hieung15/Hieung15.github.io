@@ -1,0 +1,17 @@
+@import url('https://fonts.google.com/specimen/Biryani?query=biryani&category=Sans+Serif,Display,Monospace');
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+*{
+    box-sizing: border-box;
+    font-family: 'biryani', sans-serif;
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+} 
+
+
+
