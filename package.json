@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "create-react-app": "^5.0.0",
-    "react-intersection-observer": "^8.33.1"
-  }
-}
